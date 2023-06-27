@@ -1,6 +1,6 @@
 # MNIST Classification using Fully Connected Network
 
-This repository contains an IPython Notebook (`Nmber-classification-DL.ipynb`) where I explore different techniques for classifying the MNIST dataset using a fully connected network.
+This repository contains an IPython Notebook (`DL_Number_Classification.ipynb`) where I explore different techniques for classifying the MNIST dataset using a fully connected network.
 
 ## Dataset
 
